@@ -36,3 +36,9 @@ export class AuthController {
 })
 export class AuthModule {}
 ```
+
+2. 버전
+- Nest.js 8.2.8
+- TypeORM 0.2.41
+- TypeScript 4.5.5
+- Mysql 8.0
